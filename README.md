@@ -10,5 +10,6 @@ Set the number of clusters as 5,and initialize the cluster's centers with random
 With error set as 0.01,the final result of k-means cluster like the picture below.
 ![image](https://github.com/FelixHuangX/K-means_Cluster/blob/master/cluster.JPG)
 
-To be honest,this result is not as good as the cluster result based on density.According to the link below,you can realize the item in detail.
+To be honest,this result is not as good as the cluster result based on density,because the sample space distribution is not convex.
+According to the link below,you can realize the item in detail.
 https://github.com/FelixHuangX/Clustering--based--density--peaks
