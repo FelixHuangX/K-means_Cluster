@@ -11,3 +11,4 @@ With error set as 0.01,the final result of k-means cluster like the picture belo
 ![image](https://github.com/FelixHuangX/K-means_Cluster/blob/master/cluster.JPG)
 
 To be honest,this result is not as good as the cluster result based on density.According to the link below,you can realize the item in detail.
+https://github.com/FelixHuangX/Clustering--based--density--peaks
