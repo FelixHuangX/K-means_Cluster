@@ -23,7 +23,7 @@ def bestcenters(data,k,C):
     
     DS = np.array(sorted(D,key=lambda x:x[0]))
     
-    #现在已经有了每一个样本数个某个类的二维数组DS，现在要对每一类的样本求取中心坐标
+    #现在已经有了每一个样本属于某个类的二维数组DS，现在要对每一类的样本求取中心坐标
     CC = []
     for i in range(k):
         tindex = np.where(DS[:,0]==i)
